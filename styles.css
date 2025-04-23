@@ -64,6 +64,8 @@ body{
     padding: 50px 5%;
     flex-wrap: wrap;
     gap: 20px;
+    max-width: 1800px;
+    margin: 0 auto;
 }
 
 .main{
@@ -97,8 +99,8 @@ body{
 }
 
 img {
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
     object-fit: cover;
     border-radius: 100%;
 }
