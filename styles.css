@@ -103,6 +103,7 @@ img {
     height: 500px;
     object-fit: cover;
     border-radius: 100%;
+    box-shadow: 10px 10px 10px  darkorchid;
 }
 
 .stack iconify-icon {
